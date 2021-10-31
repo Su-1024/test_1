@@ -1,2 +1,2 @@
 # test_1
-Just trying.
+Just be learning and trying.
